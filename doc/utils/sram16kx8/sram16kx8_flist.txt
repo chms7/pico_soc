@@ -1,0 +1,10 @@
+# Output products list for <sram16kx8>
+sram16kx8.edn
+sram16kx8.vhd
+sram16kx8.vho
+sram16kx8.v
+sram16kx8.veo
+sram16kx8.asy
+sram16kx8.sym
+sram16kx8.xco
+sram16kx8_flist.txt
